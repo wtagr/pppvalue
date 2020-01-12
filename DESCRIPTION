@@ -1,0 +1,11 @@
+Package: pppvalue
+Type: Package
+Title: Pointwise adjusted Permutation P-value (PPPvalue)
+Version: 0.01
+Date: 2020-01-11
+Author: Meng Xu, Philip Reiss
+Maintainer: Meng Xu <mxu@campus.haifa.ac.il>
+Description: Perform three distribution-free adjustments for pointwise p-values based on envelope/graphical tests.
+License: GPL (>= 2)
+RoxygenNote: 6.1.1
+Encoding: UTF-8
