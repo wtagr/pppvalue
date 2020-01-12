@@ -1,5 +1,5 @@
-# pppvalue
- Pointwise Adjusted Permutation P-values (PPPvalue)
+# pppvalue (Beta)
+R package for Pointwise Adjusted Permutation P-values (PPPvalue). The current version is made available for testing.
 
 ## Usage
 library(devtools)
