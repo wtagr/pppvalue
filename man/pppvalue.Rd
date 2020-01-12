@@ -19,7 +19,7 @@ pppvalue(realvec, permat, method = "all")
 Estimated pointwise adjusted p-values.
 }
 \description{
-Perform three distribution-free adjustments for pointwise p-values based on envelope/graphical tests.
+Perform three distribution-free adjustments for pointwise p-values based on envelope/graphical tests. The current version is made available for testing.
 }
 \details{
 There are three distribution-free p-value adjustments offered in this package: 

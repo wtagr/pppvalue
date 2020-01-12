@@ -1,6 +1,6 @@
 #' Pointwise Adjusted Permutation P-values (PPPvalue)
 #' 
-#' Perform three distribution-free adjustments for pointwise p-values based on envelope/graphical tests.
+#' Perform three distribution-free adjustments for pointwise p-values based on envelope/graphical tests. The current version is made available for testing.
 #' 
 #' There are three distribution-free p-value adjustments offered in this package: 
 #' \itemize{
