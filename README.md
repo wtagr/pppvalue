@@ -1,5 +1,5 @@
 # pppvalue (Beta)
-R package for *P*ointwise adjusted *P*ermutation *P*-*value*s (PPPvalue). The current version is made available for testing.
+R package for **P**ointwise adjusted **P**ermutation **P**-**value**s (PPPvalue). The current version is made available for testing.
 
 ## Usage
 library(devtools)
